@@ -1,17 +1,45 @@
 
   {
 "products": [
-  {
-  
+  {  
     "id": 1,
-    "item": "dolorem eum magni eos aperiam quia",
-    "brand":"pepe",
+    "item": "Guantes 4oz",
+    "brand":"Everlast",
     "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nisi explicabo architecto dignissimos sequi obcaecati magnam quos ipsam, molestias blanditiis quia dolorum nostrum earum beatae commodi illo, tenetur recusandae et."
-  }    
+  },
+    {  
+    "id": 2,
+    "item": "Shorts MMA",
+    "brand":"Venum",
+    "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nisi explicabo architecto dignissimos sequi obcaecati magnam quos ipsam, molestias blanditiis quia dolorum nostrum earum beatae commodi illo, tenetur recusandae et."
+  },
+    {  
+    "id": 3,
+    "item": "Lycra M/C",
+    "brand":"Venum",
+    "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nisi explicabo architecto dignissimos sequi obcaecati magnam quos ipsam, molestias blanditiis quia dolorum nostrum earum beatae commodi illo, tenetur recusandae et."
+  },
+    {  
+    "id": 4,
+    "item": "Lycra M/L",
+    "brand":"Hayabusa",
+    "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nisi explicabo architecto dignissimos sequi obcaecati magnam quos ipsam, molestias blanditiis quia dolorum nostrum earum beatae commodi illo, tenetur recusandae et."
+  },
+    {  
+    "id": 5,
+    "item": "Hoodie",
+    "brand":"Under Armor",
+    "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nisi explicabo architecto dignissimos sequi obcaecati magnam quos ipsam, molestias blanditiis quia dolorum nostrum earum beatae commodi illo, tenetur recusandae et."
+  },
+    {  
+    "id": 6,
+    "item": "Remera Algodon M/C",
+    "brand":"Venum",
+    "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nisi explicabo architecto dignissimos sequi obcaecati magnam quos ipsam, molestias blanditiis quia dolorum nostrum earum beatae commodi illo, tenetur recusandae et."
+  }   
 ],
     
    "sizes":[
-   
     {
      "s": 2,
      "m": 1,
