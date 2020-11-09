@@ -7,13 +7,13 @@
     "item": "dolorem eum magni eos aperiam quia",
     "brand":"pepe",
     "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nisi explicabo architecto dignissimos sequi obcaecati magnam quos ipsam, molestias blanditiis quia dolorum nostrum earum beatae commodi illo, tenetur recusandae et.",
-    "size": [
+    "size": 
       {
       "sm":3,
         "m":4,
         "l":2,
         "xl":2
-        ]
+        
 }
 ]
 
